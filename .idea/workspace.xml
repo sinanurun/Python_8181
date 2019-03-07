@@ -1,18 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="286a549d-f104-48cc-aa21-4d4e9271420f" name="Default Changelist" comment="" />
+    <list default="true" id="286a549d-f104-48cc-aa21-4d4e9271420f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ders02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ders03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ders04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ders05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ders06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ders07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_dersi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_8181$kayan_noktali_esitlik.coverage" NAME="kayan_noktali_esitlik Coverage Results" MODIFIED="1551979071691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar" />
+    <SUITE FILE_PATH="coverage/Python_8181$Ders01.coverage" NAME="Ders01 Coverage Results" MODIFIED="1551985520608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$ders06.coverage" NAME="ders06 Coverage Results" MODIFIED="1551988134415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$ders03.coverage" NAME="ders03 Coverage Results" MODIFIED="1551986720603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$degerlervedegiskenler08.coverage" NAME="degerlervedegiskenler08 Coverage Results" MODIFIED="1551976818498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders 02 Degerler ve Degiskenler" />
+    <SUITE FILE_PATH="coverage/Python_8181$degerler_arasi_gezinme_01.coverage" NAME="degerler_arasi_gezinme_01 Coverage Results" MODIFIED="1551981605116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
+    <SUITE FILE_PATH="coverage/Python_8181$listede_kullanilan_yontemler_01.coverage" NAME="listede_kullanilan_yontemler_01 Coverage Results" MODIFIED="1551985113127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
+    <SUITE FILE_PATH="coverage/Python_8181$python_dersi.coverage" NAME="python_dersi Coverage Results" MODIFIED="1551985781008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$ders05.coverage" NAME="ders05 Coverage Results" MODIFIED="1551987679529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$degerler_arasi_gezinme.coverage" NAME="degerler_arasi_gezinme Coverage Results" MODIFIED="1551981824810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
+    <SUITE FILE_PATH="coverage/Python_8181$alt_cizgi_sembolu_01.coverage" NAME="alt_cizgi_sembolu_01 Coverage Results" MODIFIED="1551981495306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
+    <SUITE FILE_PATH="coverage/Python_8181$ders04.coverage" NAME="ders04 Coverage Results" MODIFIED="1551987265727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$fibonacci_ornek.coverage" NAME="fibonacci_ornek Coverage Results" MODIFIED="1551981113271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
+    <SUITE FILE_PATH="coverage/Python_8181$cok_boyutlu_diziler.coverage" NAME="cok_boyutlu_diziler Coverage Results" MODIFIED="1551981561120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
+    <SUITE FILE_PATH="coverage/Python_8181$ders07.coverage" NAME="ders07 Coverage Results" MODIFIED="1551988579358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$degerlervedegiskenler09.coverage" NAME="degerlervedegiskenler09 Coverage Results" MODIFIED="1551976827995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders 02 Degerler ve Degiskenler" />
+    <SUITE FILE_PATH="coverage/Python_8181$degerlervedegiskenler11.coverage" NAME="degerlervedegiskenler11 Coverage Results" MODIFIED="1551976903495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders 02 Degerler ve Degiskenler" />
+    <SUITE FILE_PATH="coverage/Python_8181$ornek_agac.coverage" NAME="ornek_agac Coverage Results" MODIFIED="1551979319220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
+    <SUITE FILE_PATH="coverage/Python_8181$rasgele_sayilar_orn_01.coverage" NAME="rasgele_sayilar_orn_01 Coverage Results" MODIFIED="1551981262806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01" />
+    <SUITE FILE_PATH="coverage/Python_8181$ders02.coverage" NAME="ders02 Coverage Results" MODIFIED="1551986093220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_8181$degerlervedegiskenler10.coverage" NAME="degerlervedegiskenler10 Coverage Results" MODIFIED="1551976883964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders 02 Degerler ve Degiskenler" />
+    <SUITE FILE_PATH="coverage/Python_8181$ic_ice_dongu_01.coverage" NAME="ic_ice_dongu_01 Coverage Results" MODIFIED="1551979296510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ders01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_dersi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ders02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ders03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ders04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ders05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ders06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ders07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/kayan_noktali_esitlik.py" />
+        <option value="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/rasgele_sayilar_orn_01.py" />
+        <option value="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/degerler_arasi_gezinme.py" />
+        <option value="$PROJECT_DIR$/Ders01.py" />
+        <option value="$PROJECT_DIR$/python_dersi.py" />
+        <option value="$PROJECT_DIR$/ders02.py" />
+        <option value="$PROJECT_DIR$/ders03.py" />
+        <option value="$PROJECT_DIR$/ders04.py" />
+        <option value="$PROJECT_DIR$/ders05.py" />
+        <option value="$PROJECT_DIR$/ders06.py" />
+        <option value="$PROJECT_DIR$/ders07.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1679" />
     <option name="y" value="-16" />
     <option name="width" value="1347" />
     <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -35,8 +171,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,6 +188,127 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.ders07">
+    <configuration name="ders03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_8181" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ders03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ders04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_8181" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ders04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ders05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_8181" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ders05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ders06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_8181" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ders06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ders07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_8181" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ders07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ders07" />
+        <item itemvalue="Python.ders06" />
+        <item itemvalue="Python.ders05" />
+        <item itemvalue="Python.ders04" />
+        <item itemvalue="Python.ders03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,40 +319,281 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551969057999</updated>
-      <workItem from="1551969059546" duration="328000" />
+      <workItem from="1551969059546" duration="1123000" />
+      <workItem from="1551970360967" duration="10561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328000" />
+    <option name="totallyTimeSpent" value="11684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.42578548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3954496" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/if_kurs_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/if_kurs_03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/if_kurs_04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/iliskisel_operatorler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/kayan_noktali_esitlik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/kosullu_ifadeler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/pass_ornegi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/yagmur.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/asal_sayi_ornek.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/belirli_dongu_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/belirli_dongu_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/belirsiz_dongu_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/break_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/break_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/continue_ornek.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/dongu_yapilari.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_dongusu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_ornek_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_ornek_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_ornek_03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_ornek_04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_soz_d.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/for_soz_dizimi_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/format_orn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/ic_ice_3lu_dongu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/pizzaornek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/ic_ice_dongu_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/ornek_agac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/orner_faktoriyel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/while_dongusu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/while_else_ornek.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/while_ornek_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/fibonacci_ornek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler/while_ornek_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/liste_uyeligi_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/degerler_arasi_gezinme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/cok_boyutlu_diziler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/alt_cizgi_sembolu_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/rasgele_sayilar_orn_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/liste_kullanmak_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/degerler_arasi_gezinme_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/listede_kullanilan_yontemler_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/liste_kurs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ders01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_dersi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ders02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ders03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ders04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ders05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ders06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ders07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
