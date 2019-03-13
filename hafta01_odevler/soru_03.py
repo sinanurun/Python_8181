@@ -1,0 +1,6 @@
+sayi1 = int(input("lütfen birinci sayıyı giriniz"))
+sayi2 = int(input("lütfen ikinci sayıyı giriniz"))
+print(sayi1+sayi2)
+print(sayi1-sayi2)
+print(sayi1*sayi2)
+print(sayi1/sayi2)
