@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286a549d-f104-48cc-aa21-4d4e9271420f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders00_fonksiyonlar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders01_bos_fonksiyonlar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders02_deger_donderen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders03_parametre_alan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders04_default_parametre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders05_ozyinelemeli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders06_pass_continue_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders07_math_kutuphanesi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders08_time_fonk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders09_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders10_kendi_kutuphaneni_yaz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/ders11_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_02/pi_gunu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hafta_03/sirapis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hafta_03/xmen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,6 +44,7 @@
     <SUITE FILE_PATH="coverage/Python_8181$python_dersi.coverage" NAME="python_dersi Coverage Results" MODIFIED="1551985781008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_8181$ders05.coverage" NAME="ders05 Coverage Results" MODIFIED="1551987679529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_8181$degerler_arasi_gezinme.coverage" NAME="degerler_arasi_gezinme Coverage Results" MODIFIED="1551981824810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
+    <SUITE FILE_PATH="coverage/Python_8181$xmen.coverage" NAME="xmen Coverage Results" MODIFIED="1553008209004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_03" />
     <SUITE FILE_PATH="coverage/Python_8181$gelismis_poligon_cizimi.coverage" NAME="gelismis_poligon_cizimi Coverage Results" MODIFIED="1552580731976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_08_fonksiyonlar_02" />
     <SUITE FILE_PATH="coverage/Python_8181$ders10_kendi_kutuphaneni_yaz.coverage" NAME="ders10_kendi_kutuphaneni_yaz Coverage Results" MODIFIED="1552593881236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_02" />
     <SUITE FILE_PATH="coverage/Python_8181$fibonacci_ornek.coverage" NAME="fibonacci_ornek Coverage Results" MODIFIED="1551981113271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
@@ -70,24 +61,48 @@
     <SUITE FILE_PATH="coverage/Python_8181$degerlervedegiskenler10.coverage" NAME="degerlervedegiskenler10 Coverage Results" MODIFIED="1551976883964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders 02 Degerler ve Degiskenler" />
     <SUITE FILE_PATH="coverage/Python_8181$ic_ice_dongu_01.coverage" NAME="ic_ice_dongu_01 Coverage Results" MODIFIED="1551979296510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/hafta_03/xmen.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="235">
+                    <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hafta_02/pi_gunu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state>
               <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hafta_02/ders10_kendi_kutuphaneni_yaz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hafta_03/sirapis.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -148,12 +163,13 @@
         <option value="$PROJECT_DIR$/hafta_02/ders09_random.py" />
         <option value="$PROJECT_DIR$/hafta_02/pi_gunu.py" />
         <option value="$PROJECT_DIR$/hafta_02/ders10_kendi_kutuphaneni_yaz.py" />
+        <option value="$PROJECT_DIR$/hafta_03/yemekler.txt" />
+        <option value="$PROJECT_DIR$/hafta_03/xmen.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2622" />
-    <option name="y" value="-16" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -175,7 +191,7 @@
             <path>
               <item name="Python_8181" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_8181" type="462c0819:PsiDirectoryNode" />
-              <item name="hafta_02" type="462c0819:PsiDirectoryNode" />
+              <item name="hafta_03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,6 +207,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python_8181\hafta_03" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -203,29 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ders10_kendi_kutuphaneni_yaz">
-    <configuration name="ders06_pass_continue_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_8181" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_02/ders06_pass_continue_break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.xmen">
     <configuration name="ders07_math_kutuphanesi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_8181" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,13 +313,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xmen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_8181" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_03/xmen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xmen" />
         <item itemvalue="Python.ders10_kendi_kutuphaneni_yaz" />
         <item itemvalue="Python.ders09_random" />
         <item itemvalue="Python.ders08_time_fonk" />
         <item itemvalue="Python.ders07_math_kutuphanesi" />
-        <item itemvalue="Python.ders06_pass_continue_break" />
       </list>
     </recent_temporary>
   </component>
@@ -337,23 +358,23 @@
       <workItem from="1551969059546" duration="1123000" />
       <workItem from="1551970360967" duration="11080000" />
       <workItem from="1552503822174" duration="2933000" />
-      <workItem from="1552579885082" duration="12091000" />
+      <workItem from="1552579885082" duration="12692000" />
+      <workItem from="1553003913910" duration="5441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27227000" />
+    <option name="totallyTimeSpent" value="33269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10181237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25596818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.42470205" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.53405994" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,34 +396,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hafta01_odevler/soru_08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hafta01_odevler/soru_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hafta01_odevler/soru_11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hafta01_odevler/soru_12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hafta01_odevler/soru_13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -647,15 +640,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hafta_02/pi_gunu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state>
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hafta_02/ders10_kendi_kutuphaneni_yaz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/yemekler">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/yemekler.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/sirapis.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/xmen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
         </state>
       </provider>
     </entry>
