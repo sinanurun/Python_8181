@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286a549d-f104-48cc-aa21-4d4e9271420f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hafta_03/dict_veri_tipi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_03/listeler_veri_tipi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_03/set_veri_tipi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_03/string_veri_tipi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hafta_03/tuple_veri_tipi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hafta_04/temel_islemler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hafta_04/temel_yazma_islemleri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hafta_04/tkinter01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hafta_04/tkinter02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hafta_03/hafta_03.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hafta_03/malzemeler.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hafta_03/menu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hafta_03/sirapis.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hafta_03/xmen.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hafta_03/yemekler.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +30,7 @@
     <SUITE FILE_PATH="coverage/Python_8181$ders04_default_parametre.coverage" NAME="ders04_default_parametre Coverage Results" MODIFIED="1552590673570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_02" />
     <SUITE FILE_PATH="coverage/Python_8181$Ders01.coverage" NAME="Ders01 Coverage Results" MODIFIED="1551985520608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_8181$listeler_veri_tipi.coverage" NAME="listeler_veri_tipi Coverage Results" MODIFIED="1553195634771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_03" />
+    <SUITE FILE_PATH="coverage/Python_8181$tkinter01.coverage" NAME="tkinter01 Coverage Results" MODIFIED="1553801844111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_04" />
     <SUITE FILE_PATH="coverage/Python_8181$ders05.coverage" NAME="ders05 Coverage Results" MODIFIED="1551987679529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_8181$set_veri_tipi.coverage" NAME="set_veri_tipi Coverage Results" MODIFIED="1553196592140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_03" />
     <SUITE FILE_PATH="coverage/Python_8181$gelismis_poligon_cizimi.coverage" NAME="gelismis_poligon_cizimi Coverage Results" MODIFIED="1552580731976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_08_fonksiyonlar_02" />
@@ -44,13 +39,16 @@
     <SUITE FILE_PATH="coverage/Python_8181$ornek_agac.coverage" NAME="ornek_agac Coverage Results" MODIFIED="1551979319220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
     <SUITE FILE_PATH="coverage/Python_8181$rasgele_sayilar_orn_01.coverage" NAME="rasgele_sayilar_orn_01 Coverage Results" MODIFIED="1551981262806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01" />
     <SUITE FILE_PATH="coverage/Python_8181$ic_ice_dongu_01.coverage" NAME="ic_ice_dongu_01 Coverage Results" MODIFIED="1551979296510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_05_Donguler" />
+    <SUITE FILE_PATH="coverage/Python_8181$temel_yazma_islemleri.coverage" NAME="temel_yazma_islemleri Coverage Results" MODIFIED="1553800526645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_04" />
     <SUITE FILE_PATH="coverage/Python_8181$soru_16.coverage" NAME="soru_16 Coverage Results" MODIFIED="1552506591587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta01_odevler" />
     <SUITE FILE_PATH="coverage/Python_8181$ders06.coverage" NAME="ders06 Coverage Results" MODIFIED="1551988134415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_8181$ders03.coverage" NAME="ders03 Coverage Results" MODIFIED="1551986720603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_8181$soru_13.coverage" NAME="soru_13 Coverage Results" MODIFIED="1552505759857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta01_odevler" />
+    <SUITE FILE_PATH="coverage/Python_8181$temel_islemler.coverage" NAME="temel_islemler Coverage Results" MODIFIED="1553804551733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_04" />
     <SUITE FILE_PATH="coverage/Python_8181$listede_kullanilan_yontemler_01.coverage" NAME="listede_kullanilan_yontemler_01 Coverage Results" MODIFIED="1551985113127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
     <SUITE FILE_PATH="coverage/Python_8181$ders02_deger_donderen.coverage" NAME="ders02_deger_donderen Coverage Results" MODIFIED="1552589956506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_02" />
     <SUITE FILE_PATH="coverage/Python_8181$soru_01.coverage" NAME="soru_01 Coverage Results" MODIFIED="1552504278771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta01_odevler" />
+    <SUITE FILE_PATH="coverage/Python_8181$tkinter02.coverage" NAME="tkinter02 Coverage Results" MODIFIED="1553803009056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_04" />
     <SUITE FILE_PATH="coverage/Python_8181$ders05_ozyinelemeli.coverage" NAME="ders05_ozyinelemeli Coverage Results" MODIFIED="1552591422422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hafta_02" />
     <SUITE FILE_PATH="coverage/Python_8181$alt_cizgi_sembolu_01.coverage" NAME="alt_cizgi_sembolu_01 Coverage Results" MODIFIED="1551981495306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler" />
     <SUITE FILE_PATH="coverage/Python_8181$hesap_makinesi_ornegi.coverage" NAME="hesap_makinesi_ornegi Coverage Results" MODIFIED="1552580705525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_08_fonksiyonlar_02" />
@@ -77,46 +75,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hafta_03/listeler_veri_tipi.py">
+        <entry file="file://$PROJECT_DIR$/hafta_04/tkinter01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="15" />
+            <state relative-caret-position="540">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hafta_03/tuple_veri_tipi.py">
+        <entry file="file://$PROJECT_DIR$/hafta_04/tkinter02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" lean-forward="true" selection-start-column="12" selection-end-column="40" />
+            <state relative-caret-position="180">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hafta_03/set_veri_tipi.py">
+        <entry file="file://$PROJECT_DIR$/hafta_04/temel_yazma_islemleri.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="36">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hafta_03/dict_veri_tipi.py">
+        <entry file="file://$PROJECT_DIR$/hafta_04/temel_islemler.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="656">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+              <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hafta_03/string_veri_tipi.py">
+        <entry file="file://$PROJECT_DIR$/hafta_04/kaan.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="32" />
+            <state relative-caret-position="108">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -137,11 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/Ders_04_kosullu_durumlar/kayan_noktali_esitlik.py" />
-        <option value="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/rasgele_sayilar_orn_01.py" />
-        <option value="$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_10_listeler/degerler_arasi_gezinme.py" />
-        <option value="$PROJECT_DIR$/Ders01.py" />
-        <option value="$PROJECT_DIR$/python_dersi.py" />
         <option value="$PROJECT_DIR$/ders02.py" />
         <option value="$PROJECT_DIR$/ders03.py" />
         <option value="$PROJECT_DIR$/ders04.py" />
@@ -186,6 +179,13 @@
         <option value="$PROJECT_DIR$/hafta_03/tuple_veri_tipi.py" />
         <option value="$PROJECT_DIR$/hafta_03/set_veri_tipi.py" />
         <option value="$PROJECT_DIR$/hafta_03/dict_veri_tipi.py" />
+        <option value="$PROJECT_DIR$/hafta_04/deneme.txt" />
+        <option value="$PROJECT_DIR$/hafta_04/deneme02.txt" />
+        <option value="$PROJECT_DIR$/hafta_04/temel_yazma_islemleri.py" />
+        <option value="$PROJECT_DIR$/hafta_04/tkinter01.py" />
+        <option value="$PROJECT_DIR$/hafta_04/tkinter02.py" />
+        <option value="$PROJECT_DIR$/hafta_04/kaan.txt" />
+        <option value="$PROJECT_DIR$/hafta_04/temel_islemler.py" />
       </list>
     </option>
   </component>
@@ -203,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,24 +214,24 @@
             <path>
               <item name="Python_8181" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_8181" type="462c0819:PsiDirectoryNode" />
-              <item name="hafta_03" type="462c0819:PsiDirectoryNode" />
+              <item name="hafta_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python_8181\hafta_04" />
       <recent name="D:\Python_8181\hafta_03" />
     </key>
   </component>
@@ -246,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict_veri_tipi">
+  <component name="RunManager" selected="Python.temel_islemler">
     <configuration name="dict_veri_tipi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_8181" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listeler_veri_tipi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temel_islemler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_8181" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_03/listeler_veri_tipi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_04/temel_islemler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_veri_tipi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temel_yazma_islemleri" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_8181" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,12 +300,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_03/set_veri_tipi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_04/temel_yazma_islemleri.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_veri_tipi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tkinter01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_8181" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,12 +322,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_03/string_veri_tipi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_04/tkinter01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple_veri_tipi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tkinter02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_8181" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,12 +344,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hafta_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_03/tuple_veri_tipi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hafta_04/tkinter02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temel_islemler" />
+        <item itemvalue="Python.tkinter02" />
+        <item itemvalue="Python.tkinter01" />
+        <item itemvalue="Python.temel_yazma_islemleri" />
         <item itemvalue="Python.dict_veri_tipi" />
-        <item itemvalue="Python.set_veri_tipi" />
-        <item itemvalue="Python.tuple_veri_tipi" />
-        <item itemvalue="Python.listeler_veri_tipi" />
-        <item itemvalue="Python.string_veri_tipi" />
       </list>
     </recent_temporary>
   </component>
@@ -383,21 +384,25 @@
       <workItem from="1552579885082" duration="12692000" />
       <workItem from="1553003913910" duration="5441000" />
       <workItem from="1553192287369" duration="5190000" />
+      <workItem from="1553362420970" duration="491000" />
+      <workItem from="1553418865355" duration="71000" />
+      <workItem from="1553792285855" duration="10365000" />
+      <workItem from="1553804176173" duration="392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38459000" />
+    <option name="totallyTimeSpent" value="49778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10554371" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1098081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.531961" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.38136512" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,34 +424,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hafta01_odevler/soru_07.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/deger_dondermeyen_fonk_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/fonksiyon_ve_moduller.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/fonksiyon_ve_moduller_02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/fonksiyonlarin_bolumlari_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/parametresiz_fonk_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/rasgele_sayilar_orn_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/sqrt_ornek_02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sinan 28 09 2018 format/Bilgisayar Bilimi Python Dersleri/Bilgisayar-Bilimi-Python-Dersleri/ders_06_fonksiyonlar_01/sqrt_ornek_03.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -627,20 +604,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hafta_03/yemekler" />
-    <entry file="file://$PROJECT_DIR$/hafta_03/yemekler.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hafta_03/xmen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/yemekler.txt" />
+    <entry file="file://$PROJECT_DIR$/hafta_03/xmen.py" />
     <entry file="file://$PROJECT_DIR$/hafta_02/pi_gunu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -655,8 +620,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hafta_03/sirapis.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/hafta_03/sirapis.txt" />
+    <entry file="file://$PROJECT_DIR$/hafta_03/listeler_veri_tipi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/tuple_veri_tipi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/set_veri_tipi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_03/dict_veri_tipi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hafta_03/string_veri_tipi.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -665,31 +656,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hafta_03/tuple_veri_tipi.py">
+    <entry file="file://$PROJECT_DIR$/hafta_04/deneme.txt" />
+    <entry file="file://$PROJECT_DIR$/hafta_04/deneme02.txt" />
+    <entry file="file://$PROJECT_DIR$/hafta_04/deneme03.txt" />
+    <entry file="file://$PROJECT_DIR$/hafta_04/tkinter01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" lean-forward="true" selection-start-column="12" selection-end-column="40" />
+        <state relative-caret-position="540">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hafta_03/listeler_veri_tipi.py">
+    <entry file="file://$PROJECT_DIR$/hafta_04/tkinter02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hafta_03/set_veri_tipi.py">
+    <entry file="file://$PROJECT_DIR$/hafta_04/temel_yazma_islemleri.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="36">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hafta_03/dict_veri_tipi.py">
+    <entry file="file://$PROJECT_DIR$/hafta_04/kaan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hafta_04/temel_islemler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>

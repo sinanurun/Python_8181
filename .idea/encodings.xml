@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/hafta_03/yemekler.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/hafta_04/deneme.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hafta_04/temel_islemler.py" charset="UTF-8" />
   </component>
 </project>
